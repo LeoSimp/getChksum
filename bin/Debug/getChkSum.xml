@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>getChkSum</name>
+    </assembly>
+    <members>
+        <member name="T:getChkSum.EModule">
+              <summary> 
+              用于被外部函数引用的类 
+              主要包含LRC()方法，请参考注释
+              </summary> 
+        </member>
+        <member name="M:getChkSum.EModule.LRC(System.String)">
+              <summary> 
+            获取LCR CheckSum    
+              </summary> 
+              <param name="Data">表示要处理的字符串</param>
+              <returns>返回CheckSum值</returns>
+        </member>
+        <member name="M:getChkSum.EModule.BCC(System.String)">
+            <summary>
+            获取BCC CheckSum
+            </summary>
+            <param name="Data"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

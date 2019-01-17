@@ -1,0 +1,18 @@
+D:\Documents\Visual Studio 2012\Projects\getChksum\LRC_CHKSUM\bin\Debug\getChkSum.xml
+D:\Documents\Visual Studio 2012\Projects\getChksum\LRC_CHKSUM\bin\Debug\getChkSum.dll
+D:\Documents\Visual Studio 2012\Projects\getChksum\LRC_CHKSUM\bin\Debug\getChkSum.pdb
+D:\Documents\Visual Studio 2012\Projects\getChksum\LRC_CHKSUM\obj\Debug\getChkSum.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\getChksum\LRC_CHKSUM\obj\Debug\getChkSum.dll
+D:\Documents\Visual Studio 2012\Projects\getChksum\LRC_CHKSUM\obj\Debug\getChkSum.pdb
+D:\GitHub\Visual_Studio_Study\ExtendDll\getChksum\LRC_CHKSUM\bin\Debug\getChkSum.xml
+D:\GitHub\Visual_Studio_Study\ExtendDll\getChksum\LRC_CHKSUM\bin\Debug\getChkSum.pdb
+D:\GitHub\Visual_Studio_Study\ExtendDll\getChksum\LRC_CHKSUM\obj\Debug\getChkSum.csprojResolveAssemblyReference.cache
+D:\GitHub\Visual_Studio_Study\ExtendDll\getChksum\LRC_CHKSUM\obj\Debug\getChkSum.pdb
+D:\GitHub\Visual_Studio_Study\ExtendDll\getChksum\LRC_CHKSUM\bin\Debug\getChkSum.dll
+D:\GitHub\Visual_Studio_Study\ExtendDll\getChksum\LRC_CHKSUM\obj\Debug\getChkSum.dll
+D:\GitHub\MyDll\getChksum\getChksum\bin\Debug\getChkSum.xml
+D:\GitHub\MyDll\getChksum\getChksum\obj\Debug\getChkSum.pdb
+D:\GitHub\MyDll\getChksum\getChksum\bin\Debug\getChkSum.pdb
+D:\GitHub\MyDll\getChksum\getChksum\obj\Debug\getChkSum.csprojResolveAssemblyReference.cache
+D:\GitHub\MyDll\getChksum\getChksum\bin\Debug\getChkSum.dll
+D:\GitHub\MyDll\getChksum\getChksum\obj\Debug\getChkSum.dll
